@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Cristovam10000/node_2025_-1/issues"
   },
-  "homepage": "https://github.com/Cristovam10000/node_2025_-1#readme"
+  "homepage": "https://github.com/Cristovam10000/node_2025_-1#readme",
+  "dependencies": {
+    "commander": "^14.0.1"
+  }
 }
